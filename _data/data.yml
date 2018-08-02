@@ -3,11 +3,11 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Luwei Zeng
+    name: Luwei Zeng 曾露纬
     tagline: Master Student
     avatar: photo.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -30,14 +30,14 @@ sidebar:
       - idiom: English
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: Japanese
+        level: Fundamental
         
     interests:
-      - item: Climbing
+      - item: Reading
         link:
 
-      - item: Snowboarding
+      - item: Gamming
         link:
 
       - item: Cooking
