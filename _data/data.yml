@@ -59,7 +59,7 @@ education:
       university: Northwestern University (U.S)
       time: 2017 - 2018
       details: |
-        This is my second master degree, focusing in Transportation and
+        This is my second master degree, focusing on Transportation and
         Operation research. I was a grader in CIV_ENV 205 Ecnomics 
         and Finance for Engineers. GPA and some of the coureseworks are listed below.
 
@@ -80,42 +80,39 @@ education:
       time: 2015 - 2017
       details: |
         After my gap year, I got my first Master degree in University
-        of Macau.
+        of Macau. GPA and some courseworks are listed below.
 
           - GPA: 3.72/4
-          - Bullet point 
-          
+          - Advanced Mathematics
+          - Human Factors Engineering
+          - Advanced Electric Vehicles
+          - Intelligent Theory and Engineering Application
           
     - degree: BEng in General Engineering
       university: Durham University (U.K)
-      time: 2007 - 2011
+      time: 20011 - 2014
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point 
+        I have done my A-level in John Leggott College in the U.K, and got the 
+        offer from Imperial College London in biomechanical engineering and Durham 
+        University in General Engineering. During the study in Durham University,
+        I focused on mechanical engineering in my third year.
+       
+          - Advanced Mathematics
+          - Advanced Algebra
+          - Electronic Fundamentals
+          - Applied Mechanics
+          - Thermodynamics & Fluid Mechanics
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Freight Operation Characteristics
+      time: 2018 - Present
+      company: Python, R, Tableau (Northwestern University)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-
-          - Bullet point
-          - Bullet point 
+      
+          - Using real fleet data to analyses freight operation characteristics
+          - Raw freight data processing. Using Processed data to produce trajectory-based
+          diagram and network fundamental diagram (NFD)
+          - Establish macroscopic views of freight network in different cities
 
     - role: Senior Software Engineer
       time: 2014 - 2015
@@ -195,23 +192,29 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python & R
+        level: 65%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: Microsoft Excel
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Matlab 
+        level: 65%
+        
+      - name: C
+        level: 40%
+
+      - name: Tableau & Solidwork
+        level: 70%
+
+      - name: LaTex & Markdown
+        level: 85%
+
+      - name: Photoshop & Indesign
+        level: 75%
+        
+      - name: Vissim
+        level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
