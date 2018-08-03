@@ -44,7 +44,7 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: Biography
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
@@ -55,18 +55,18 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MSc in Project Management
+      university: Northwestern University
+      time: Jun. 2017 - Dec. 2018
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        This is my second master degree, focusing in Transportation and
+        Operation research. I was a also a grader in CIV_ENV 205 Ecnomics 
+        and Finance for Engineers. Some of the coureseworks are listed below.
 
-          - Bullet point
-          - Bullet point 
+          - GPA: 3.56/4
+          - CIV_ENV 376 Transportation System Operations
+          - CIV_ENV 483 Infrastructure Systems Analysis
+          
 
     - degree: BSc in Applied Mathematics
       university: Bristol University
