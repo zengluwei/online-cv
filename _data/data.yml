@@ -109,36 +109,43 @@ experiences:
       company: Python, R, Tableau (Northwestern University)
       details: |
       
-          - Using real fleet data to analyses freight operation characteristics
+          - Used real fleet data to analyses freight operation characteristics
           - Raw freight data processing. Using Processed data to produce trajectory-based
           diagram and network fundamental diagram (NFD)
           - Establish macroscopic views of freight network in different cities
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Unconventional Intersection Design & Optimization
+      time: 2018 - Present
+      company: Python, Vissim (Northwestern University)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
+          - Understand intersections design with multifarious costraints
+          - Optimal lane length and signal control (cycle length)
+          - Built simulation models in Vissim and compare intersection performance across models
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Electrification of Bus services in Macau
+      time: 2016 - 2017
+      company: Matlab, simulink (University of Macau)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
+          - Conducted research in the adaptability of electrical buses in Macau
+          - Used Android App to acquire real time traffic data, including GPS
+          coordination data, speed of the buses, energy efficiency and other 
+          indicators
+          - Compared real Macau driving cycle with Jaoan modes, and simulated data with 
+          Matlab and evaluated the performance; summarized the comparison of different type
+          of buses in the final papper
+         
+    - role: The Measurement of Low Pressures in Wind Tunnels
+      time: 2013 - 20114      
+      company: Ecxcel, sensor software (Durham University)
+      details: |
+
+          - Research in the reliability of low pressure sensor
+          - Creating different pressure environment
+          - Design various type of connecting tubes for testing
+          - Comparing the measurement with reference values
+          - Evaluating the data collected and summary the performance of the sensor
 
 projects:
     title: Projects
