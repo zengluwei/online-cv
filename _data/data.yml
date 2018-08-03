@@ -56,7 +56,7 @@ career-profile:
 
 education:
     - degree: MSc in Project Management
-      university: Northwestern University
+      university: Northwestern University (U.S)
       time: 2017 - 2018
       details: |
         This is my second master degree, focusing in Transportation and
@@ -76,7 +76,7 @@ education:
           
 
     - degree: MSc in Electromechanical Engineering
-      university: University of Macau
+      university: University of Macau (Macau)
       time: 2015 - 2017
       details: |
         After my gap year, I got my first Master degree in University
@@ -87,7 +87,7 @@ education:
           
           
     - degree: BEng in General Engineering
-      university: Durham University
+      university: Durham University (U.K)
       time: 2007 - 2011
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
