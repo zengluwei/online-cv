@@ -60,16 +60,34 @@ education:
       time: 2017 - 2018
       details: |
         This is my second master degree, focusing in Transportation and
-        Operation research. I was a also a grader in CIV_ENV 205 Ecnomics 
-        and Finance for Engineers. Some of the coureseworks are listed below.
+        Operation research. I was a grader in CIV_ENV 205 Ecnomics 
+        and Finance for Engineers. GPA and some of the coureseworks are listed below.
 
           - GPA: 3.56/4
           - CIV_ENV 376 Transportation System Operations
-          - CIV_ENV 483 Infrastructure Systems Analysis
+          - CIV_ENV 483 Infrastructure Systems Analysis (Dynamic program)
+          - CIV_ENV 479 Transportation System PLanning and Management
+          - CIV_ENV 495 Data Analytics for Transportation and Urban Infrastructure
+          - PROJ 403 Financial and Managerial Accounting
+          - PROJ 405 Managerial Fiance
+          - IEMS 304 Statistical Learning for Data Analysis
+          - IEMS 395 Optimization Methods in Data Science
+          - MEM 407 Decision Tools for Managers
           
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
+    - degree: MSc in Electromechanical Engineering
+      university: University of Macau
+      time: 2015 - 2017
+      details: |
+        After my gap year, I got my first Master degree in University
+        of Macau.
+
+          - GPA: 3.72/4
+          - Bullet point 
+          
+          
+    - degree: BEng in General Engineering
+      university: Durham University
       time: 2007 - 2011
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
