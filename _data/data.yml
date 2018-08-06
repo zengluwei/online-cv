@@ -46,13 +46,13 @@ sidebar:
 career-profile:
     title: Biography
     summary: |
-      Welcome to my page! My name is Luwei Zeng, a student in Project Management 
-      in Northwestern University. I am insterested in operation research and 
-      supply chain. I am currently working with Professor Chen on a project relates to
-      freight characteristics, this is a part of a five years big project, and the final 
-      goal is to achieve automatic freight operation. 
+        Welcome to my page! My name is Luwei Zeng, a student in Project Management 
+        in Northwestern University. I am insterested in operation research and 
+        supply chain. I am currently working with Professor Chen on a project relates to
+        freight characteristics, this is a part of a five years big project, and the final 
+        goal is to achieve automatic freight operation. 
 
-      I listed my research and intership experiences in the experiences section. 
+        I listed my research and intership experiences in the experiences section. 
 
 education:
     - degree: MSc in Project Management
