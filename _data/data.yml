@@ -102,6 +102,14 @@ education:
           - Electronic Fundamentals
           - Applied Mechanics
           - Thermodynamics & Fluid Mechanics
+          
+    - degree: A-level
+      university: John Leggott College (U.K)
+      time: 2009 - 2011
+      details: |
+        I went to U.K. for my A-level study when I was 16 years old. After finished A-level, 
+        I got an offer from Durham University and decided to continue my study there. 
+          
 
 experiences:
     - role: Freight Operation Characteristics
