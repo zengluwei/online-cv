@@ -206,7 +206,18 @@ publications:
       - title: "Electrification of Bus Services in Macau"
         authors: L. Zeng, T.W. Ching and W. Li 
         conference: "The International Conference on Electrical Engineering 2016 (ICEE 2016), Okinawa, Japan, Jul. 2016."
-
+        
+      - title: "The Application of Parallel Flow Intersection: Discussion on Asymmetric Flow Input and Area Restriction"
+        authors: J.Li, Y.Chu, L. Zeng 
+        conference: "19th COTA conference International Conference of Transportation Professionals (CICTP2019), 
+        NanJing, China, Jul. 2019."
+      
+      - title: "Displaced left-turn intersection: A two-stage model and application insight"
+        authors: Y.Chu, J.Li, S.Luo, L. Zeng 
+        conference: "19th COTA conference International Conference of Transportation Professionals (CICTP2019), 
+        NanJing, China, Jul. 2019."
+        
+        
 skills:
     title: Skills &amp; Proficiency
 
