@@ -118,56 +118,70 @@ experiences:
       company: Python, R, Tableau (Northwestern University)
       details: |
       
-         - Advisor: Professor Ying Chen
-         - Objective: Analysis freight operation characteristics to produce a network for 
-         evaluation of adaptability of automatics freight.
-         - Used real fleet data to analyses freight operation characteristics.
-         - Processed raw freight data, used processed data to produce 
-         trajectory-based diagram and network fundamental diagram (NFD).
-         - Projected 2D views of freight network on Googel map in different cities.      
+          - Advisor: Professor Ying Chen
+          - Objective: Analysis freight operation characteristics to produce a network for 
+          evaluation of adaptability of automatics freight.
+          - Used real fleet data to analyses freight operation characteristics.
+          - Processed raw freight data, used processed data to produce. 
+          trajectory-based diagram and network fundamental diagram (NFD).
+          - Projected 2D views of freight network on Googel map in different cities.      
 
     - role: Unconventional Intersection Design & Optimization
       time: 2018 - Present
       company: Python, Vissim (Northwestern University)
       details: |
 
-          - Understand intersections design with multifarious costraints
-          - Optimal lane length and signal control (cycle length)
-          - Built simulation models in Vissim and compare intersection performance across models
+          - Objective: Propose a two-stage model for the optimal design of 
+          displaced left-turn (DLT) intersections.
+          - Understood intersections design with multifarious constraints.
+          - Calculated optimal lane length and signal control (cycle length).
+          - Built simulation models and experiments in Vissim 9.0 with difference settings.
+          - Compared the performance of continuous flow intersection (CFI) 
+          and parallel flow intersection (PFI).
+          - Conclusion: CFI performed better than conventional intersection, 
+          also had a wider range of applications.
 
     - role: Electrification of Bus services in Macau
       time: 2016 - 2017
       company: Matlab, simulink (University of Macau)
       details: |
 
-          - Conducted research in the adaptability of electrical buses in Macau
-          - Used Android App to acquire real time traffic data, including GPS
-          coordination data, speed of the buses, energy efficiency and other 
-          indicators
-          - Compared real Macau driving cycle with Jaoan modes, and simulated data with 
-          Matlab and evaluated the performance; summarized the comparison of different type
-          of buses in the final papper
+          - Advisor: Professor Tze Wood Ching
+          - Objective:Evaluate the adaptability of electrical buses in Macau.
+          - Used android App to acquire real-time traffic data, inducing GPS 
+          coordination data,speed of the buses,energy efficiency and other indicators.
+          - Compared real Macau driving cycle with Japan modes, and 
+          simulated data with Matlab and evaluated the performance.
+          - Summarized the comparison of different type of buses in the final paper.
+          - Conclusion: the usage of electrical bus in Macau is on a feasible level.
          
     - role: The Measurement of Low Pressures in Wind Tunnels
       time: 2013 - 20114      
       company: Ecxcel, sensor software (Durham University)
       details: |
 
-          - Research in the reliability of low pressure sensor
-          - Creating different pressure environment
-          - Design various type of connecting tubes for testing
-          - Comparing the measurement with reference values
-          - Evaluating the data collected and summary the performance of the sensor
+          - Advisor: Dr. Robert Dominy
+          - Objective: test the reliability of unconventional pressure 
+          sensor, which allow actual air flow pass through it.
+          - Created different pressure environment with centrifugal fan and wind tunnel.
+          - Designed various type of innovative connecting tube restrictions for testing.
+          - Compared the measurement with reference values.
+          - Evaluated the data collected and summary the performance of the sensor.
+          - Conclusion: sensors are reliable working with tubing which has inner 
+          diameter 5mm and less than 1 meter long. The diameter of restriction
+          and tubing are import factors for sensor accuracy, but the length of 
+          restriction and tubing are not.
     
     - role: Working experience
       time: 2015      
       company: Project Assistant (YinLong Energy Company)
       details: |
 
-          - Evaluated the quality control system, involve in higher precision system assemble line
-          - Assisted with calculation of the main control factors of the assemble line
+          - Evaluated the quality control system, involve in higher precision system assemble line.
+          - Assisted with calculation of the main control factors of the assemble line.
           - Organized and scheduling regular meeting, and be responsible for preparing
-          meeting minutes; collected comments from multi-department
+          meeting minutes.
+          - Collected comments from multi-department.
          
 
 projects:
