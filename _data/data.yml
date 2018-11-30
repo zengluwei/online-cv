@@ -118,10 +118,13 @@ experiences:
       company: Python, R, Tableau (Northwestern University)
       details: |
       
-          - Used real fleet data to analyses freight operation characteristics
-          - Raw freight data processing. Using Processed data to produce trajectory-based
-          diagram and network fundamental diagram (NFD)
-          - Establish macroscopic views of freight network in different cities
+         - Advisor: Professor Ying Chen
+         - Objective: Analysis freight operation characteristics to produce a network for 
+         evaluation of adaptability of automatics freight.
+         - Used real fleet data to analyses freight operation characteristics.
+         - Processed raw freight data, used processed data to produce 
+         trajectory-based diagram and network fundamental diagram (NFD).
+         - Projected 2D views of freight network on Googel map in different cities.      
 
     - role: Unconventional Intersection Design & Optimization
       time: 2018 - Present
